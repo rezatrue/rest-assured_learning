@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -31.383494,
+    "lng": 32.427362
+  },
+  "accuracy": 31,
+  "name": "Bookline house",
+  "phone_number": "(+91) 983 893 3937",
+  "address": "35, side layout, cohen 12",
+  "types": [
+    "book park",
+    "shop"
+  ],
+  "website": "http://google.com",
+  "language": "English-EN"
+}
